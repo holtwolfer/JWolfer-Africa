@@ -1,16 +1,16 @@
 {
-  "id": "slide-006",
-  "slide": 6,
-  "number": null,
-  "name": "Fish Trap",
-  "group": "Mende",
-  "country": "Sierra Leone",
   "notes": [],
+  "number": "006",
+  "name": "Fish Trap",
+  "slide": 6,
   "original": "Fish Trap – Mende – Sierra Leone",
+  "country": "Sierra Leone",
   "images": [
     "images/s006-01.jpg",
     "images/s006-02.jpg",
     "images/s006-03.jpg",
     "images/s006-04.jpg"
-  ]
+  ],
+  "id": "slide-006",
+  "group": "Mende"
 }
