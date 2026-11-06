@@ -1,34 +1,34 @@
 [
   {
-    "id": "slide-001",
-    "slide": 1,
+    "notes": [],
     "number": "1",
     "name": "Initiation Mask",
-    "group": "Bambara",
-    "country": "Mali",
-    "notes": [],
+    "slide": 1,
     "original": "1 - Initiation Mask – Bambara – Mali",
+    "country": "Mali",
     "images": [
       "images/s001-01.jpg",
       "images/s001-02.jpg",
       "images/s001-03.jpg",
       "images/s001-04.jpg"
-    ]
+    ],
+    "id": "slide-001",
+    "group": "Bambara??"
   },
   {
-    "id": "slide-002",
-    "slide": 2,
-    "number": null,
-    "name": "Talking Drum",
-    "group": "Ashanti",
-    "country": "Ghana",
     "notes": [],
+    "number": "002",
+    "name": "Talking Drum",
+    "slide": 2,
     "original": "Talking Drum – Ashanti - Ghana",
+    "country": "Ghana",
     "images": [
       "images/s002-01.jpg",
       "images/s002-02.jpg",
       "images/s002-03.jpg"
-    ]
+    ],
+    "id": "slide-002",
+    "group": "Ashanti"
   },
   {
     "id": "slide-003",
