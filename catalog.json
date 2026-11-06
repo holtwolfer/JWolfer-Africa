@@ -231,14 +231,12 @@
     "group": ""
   },
   {
-    "id": "slide-015",
-    "slide": 15,
-    "number": "15",
-    "name": "Drinking Gourd",
-    "group": "Masai",
-    "country": "Tanzania/Kenya",
     "notes": [],
+    "number": "015a",
+    "name": "Drinking Gourd #1",
+    "slide": 15,
     "original": "15 – Drinking Gourd – Masai – Tanzania/Kenya",
+    "country": "Tanzania/Kenya",
     "images": [
       "images/s015-01.jpg",
       "images/s015-02.jpg",
@@ -246,7 +244,9 @@
       "images/s015-04.jpg",
       "images/s015-05.jpg",
       "images/s015-06.jpg"
-    ]
+    ],
+    "id": "slide-015",
+    "group": "Masai"
   },
   {
     "id": "slide-016",
