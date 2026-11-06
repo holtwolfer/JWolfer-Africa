@@ -1,12 +1,10 @@
 {
-  "id": "slide-010",
-  "slide": 10,
-  "number": "10",
-  "name": "Ancestor Figure",
-  "group": "Mende",
-  "country": "Sierra Leone",
   "notes": [],
+  "number": "010",
+  "name": "Ancestor Figure",
+  "slide": 10,
   "original": "10 - Ancestor Figure – Mende – Sierra Leone",
+  "country": "Sierra Leone",
   "images": [
     "images/s010-01.jpg",
     "images/s010-02.jpg",
@@ -15,5 +13,7 @@
     "images/s010-05.jpg",
     "images/s010-06.jpg",
     "images/s010-07.jpg"
-  ]
+  ],
+  "id": "slide-010",
+  "group": "Mende"
 }
