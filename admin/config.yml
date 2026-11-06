@@ -1,0 +1,43 @@
+# GitHub OAuth requires a separate OAuth proxy (see CMS_SETUP.md).
+backend:
+  name: github
+  repo: holtwolfer/JWolfer-Africa
+  branch: main
+  # Set base_url to the URL of your trusted OAuth proxy, e.g. https://YOUR-AUTH-SERVICE.example
+  # base_url: https://YOUR-AUTH-SERVICE.example
+  # auth_endpoint: auth
+publish_mode: editorial_workflow
+media_folder: images
+public_folder: images
+site_url: https://holtwolfer.github.io/JWolfer-Africa/
+display_url: https://holtwolfer.github.io/JWolfer-Africa/
+collections:
+  - name: artifacts
+    label: Artifacts
+    label_singular: Artifact
+    folder: content/artifacts
+    create: true
+    delete: false
+    extension: json
+    format: json
+    identifier_field: id
+    slug: "{{fields.id}}"
+    summary: "{{name}} · {{fields.country}}"
+    fields:
+      - {label: "Stable ID (unique, e.g. artifact-102; never change after creation)", name: id, widget: string, pattern: ['^[a-z0-9][a-z0-9-]*$', 'Use lowercase letters, digits and hyphens only']}
+      - {label: "Original slide position (leave empty for new artifacts)", name: slide, widget: number, required: false, value_type: int, min: 1}
+      - {label: "Catalog number (leave blank if unnumbered)", name: number, widget: string, required: false}
+      - {label: "Artifact name", name: name, widget: string}
+      - {label: "Cultural group / attribution", name: group, widget: string, required: false}
+      - {label: "Country / region", name: country, widget: string, required: false}
+      - label: "Notes / uncertainties"
+        name: notes
+        widget: list
+        required: false
+        field: {label: Note, name: note, widget: string}
+      - {label: "Original PowerPoint identification", name: original, widget: text, required: false}
+      - label: "Photographs (first image is the main image)"
+        name: images
+        widget: list
+        required: false
+        field: {label: Photograph, name: image, widget: image}
