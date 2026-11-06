@@ -1,17 +1,17 @@
 {
-  "id": "slide-007",
-  "slide": 7,
-  "number": null,
-  "name": "Kerar (harp)",
-  "group": "",
-  "country": "Ethiopia",
   "notes": [],
+  "number": "007",
+  "name": "Kerar (harp)",
+  "slide": 7,
   "original": "Kerar (harp) - - Ethiopia",
+  "country": "Ethiopia",
   "images": [
     "images/s007-01.jpg",
     "images/s007-02.jpg",
     "images/s007-03.jpg",
     "images/s007-04.jpg",
     "images/s007-05.jpg"
-  ]
+  ],
+  "id": "slide-007",
+  "group": ""
 }
