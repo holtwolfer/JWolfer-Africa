@@ -129,21 +129,21 @@
     "group": "Masai"
   },
   {
-    "id": "slide-009",
-    "slide": 9,
-    "number": null,
-    "name": "Bundu Society Mask",
-    "group": "Mende",
-    "country": "Sierra Leone",
     "notes": [],
+    "number": "009",
+    "name": "Bundu Society Mask",
+    "slide": 9,
     "original": "Bundu Society Mask – Mende – Sierra Leone",
+    "country": "Sierra Leone",
     "images": [
       "images/s009-01.jpg",
       "images/s009-02.jpg",
       "images/s009-03.jpg",
       "images/s009-04.jpg",
       "images/s009-05.jpg"
-    ]
+    ],
+    "id": "slide-009",
+    "group": "Mende"
   },
   {
     "id": "slide-010",
