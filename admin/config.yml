@@ -1,11 +1,10 @@
-# GitHub OAuth requires a separate OAuth proxy (see CMS_SETUP.md).
+# GitHub OAuth requires a separate OAuth proxy (see CMS_SETUP.md)
 backend:
   name: github
   repo: holtwolfer/JWolfer-Africa
   branch: main
-  # Set base_url to the URL of your trusted OAuth proxy, e.g. https://YOUR-AUTH-SERVICE.example
-  # base_url: https://YOUR-AUTH-SERVICE.example
-  # auth_endpoint: auth
+  base_url: https://africa-collection-auth.jamison-wolfer.workers.dev
+  auth_endpoint: /auth
 publish_mode: editorial_workflow
 media_folder: images
 public_folder: images
