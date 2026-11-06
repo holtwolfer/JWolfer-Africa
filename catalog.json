@@ -249,14 +249,12 @@
     "group": "Masai"
   },
   {
-    "id": "slide-016",
-    "slide": 16,
-    "number": null,
-    "name": "Unidentified artifact (slide 16)",
-    "group": "",
-    "country": "",
     "notes": [],
+    "number": "015b",
+    "name": "Drinking Gourd #2",
+    "slide": 16,
     "original": "",
+    "country": "Tanzania/Kenya",
     "images": [
       "images/s016-01.jpg",
       "images/s016-02.jpg",
@@ -265,7 +263,9 @@
       "images/s016-05.jpg",
       "images/s016-06.jpg",
       "images/s016-07.jpg"
-    ]
+    ],
+    "id": "slide-016",
+    "group": "Masai"
   },
   {
     "id": "slide-017",
