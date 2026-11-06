@@ -1,15 +1,15 @@
 {
-  "id": "slide-002",
-  "slide": 2,
-  "number": null,
-  "name": "Talking Drum",
-  "group": "Ashanti",
-  "country": "Ghana",
   "notes": [],
+  "number": "2",
+  "name": "Talking Drum",
+  "slide": 2,
   "original": "Talking Drum – Ashanti - Ghana",
+  "country": "Ghana",
   "images": [
     "images/s002-01.jpg",
     "images/s002-02.jpg",
     "images/s002-03.jpg"
-  ]
+  ],
+  "id": "slide-002",
+  "group": "Ashanti"
 }
