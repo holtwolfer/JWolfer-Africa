@@ -215,20 +215,20 @@
     "group": ""
   },
   {
-    "id": "slide-014",
-    "slide": 14,
-    "number": "14",
-    "name": "Camel Bell",
-    "group": "",
-    "country": "Ethiopia",
     "notes": [],
+    "number": "014",
+    "name": "Camel Bell",
+    "slide": 14,
     "original": "14 – Camel Bell - - Ethiopia",
+    "country": "Ethiopia",
     "images": [
       "images/s014-01.jpg",
       "images/s014-02.jpg",
       "images/s014-03.jpg",
       "images/s014-04.jpg"
-    ]
+    ],
+    "id": "slide-014",
+    "group": ""
   },
   {
     "id": "slide-015",
