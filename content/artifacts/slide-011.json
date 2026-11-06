@@ -1,16 +1,16 @@
 {
-  "id": "slide-011",
-  "slide": 11,
-  "number": null,
-  "name": "Masank’o (musical instrument)",
-  "group": "",
-  "country": "Ethiopia",
   "notes": [],
+  "number": "011",
+  "name": "Masank’o (musical instrument)",
+  "slide": 11,
   "original": "Masank’o (musical instrument) - - Ethiopia",
+  "country": "Ethiopia",
   "images": [
     "images/s011-01.jpg",
     "images/s011-02.jpg",
     "images/s011-03.jpg",
     "images/s011-04.jpg"
-  ]
+  ],
+  "id": "slide-011",
+  "group": ""
 }
