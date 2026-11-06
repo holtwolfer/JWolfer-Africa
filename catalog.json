@@ -112,21 +112,21 @@
     "group": ""
   },
   {
-    "id": "slide-008",
-    "slide": 8,
-    "number": null,
-    "name": "Spear",
-    "group": "Masai",
-    "country": "Tanzania/Kenya",
     "notes": [],
+    "number": "008",
+    "name": "Spear",
+    "slide": 8,
     "original": "Spear – Masai – Tanzania/Kenya",
+    "country": "Tanzania/Kenya",
     "images": [
       "images/s008-01.jpg",
       "images/s008-02.jpg",
       "images/s008-03.jpg",
       "images/s008-04.jpg",
       "images/s008-05.jpg"
-    ]
+    ],
+    "id": "slide-008",
+    "group": "Masai"
   },
   {
     "id": "slide-009",
