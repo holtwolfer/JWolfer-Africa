@@ -197,14 +197,12 @@
     "group": "Mende"
   },
   {
-    "id": "slide-013",
-    "slide": 13,
-    "number": "13",
-    "name": "Calabash Bowl",
-    "group": "",
-    "country": "Mali",
     "notes": [],
+    "number": "013",
+    "name": "Calabash Bowl",
+    "slide": 13,
     "original": "13 – Calabash Bowl - - Mali",
+    "country": "Mali",
     "images": [
       "images/s013-01.jpg",
       "images/s013-02.jpg",
@@ -212,7 +210,9 @@
       "images/s013-04.jpg",
       "images/s013-05.jpg",
       "images/s013-06.jpg"
-    ]
+    ],
+    "id": "slide-013",
+    "group": ""
   },
   {
     "id": "slide-014",
