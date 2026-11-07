@@ -731,19 +731,21 @@
     "original": ""
   },
   {
-    "id": "slide-044",
-    "slide": 44,
-    "number": "43",
+    "notes": [
+      "This item was not numbered, but was the only other spoon and similar to the previous one."
+    ],
+    "number": "043",
     "name": "Spoon (wood)",
-    "group": "",
-    "country": "Sierra Leone",
-    "notes": [],
+    "slide": 44,
     "original": "43 – Spoon (wood) - - Sierra Leone",
+    "country": "Sierra Leone",
     "images": [
       "images/s044-01.jpg",
       "images/s044-02.jpg",
       "images/s044-03.jpg"
-    ]
+    ],
+    "id": "slide-044",
+    "group": ""
   },
   {
     "id": "slide-045",
