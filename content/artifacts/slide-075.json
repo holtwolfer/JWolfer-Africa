@@ -1,14 +1,14 @@
 {
-  "id": "slide-075",
-  "slide": 75,
-  "number": null,
-  "name": "Wallet, unknown origin",
-  "group": "",
-  "country": "",
   "notes": [],
+  "number": "074",
+  "name": "Wallet, unknown origin",
+  "slide": 75,
   "original": "Wallet, unknown origin",
+  "country": "Unknown",
   "images": [
-    "images/s075-01.jpg",
-    "images/s075-02.jpg"
-  ]
+    "images/s075-02.jpg",
+    "images/s075-01.jpg"
+  ],
+  "id": "slide-075",
+  "group": "Unknown"
 }
