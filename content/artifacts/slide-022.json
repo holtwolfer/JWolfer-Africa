@@ -1,12 +1,10 @@
 {
-  "id": "slide-022",
-  "slide": 22,
-  "number": "21",
-  "name": "“Airport Art”",
-  "group": "",
-  "country": "East Africa",
   "notes": [],
+  "number": "021",
+  "name": "'Airport Art'",
+  "slide": 22,
   "original": "21 – “Airport Art” - - East Africa",
+  "country": "East Africa",
   "images": [
     "images/s022-01.jpg",
     "images/s022-02.jpg",
@@ -17,5 +15,7 @@
     "images/s022-07.jpg",
     "images/s022-08.jpg",
     "images/s022-09.jpg"
-  ]
+  ],
+  "id": "slide-022",
+  "group": ""
 }
