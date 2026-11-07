@@ -1,16 +1,16 @@
 {
-  "id": "slide-018",
-  "slide": 18,
-  "number": "17",
-  "name": "Necklace",
-  "group": "Masai",
-  "country": "Tanzania/Kenya",
   "notes": [],
+  "number": "017",
+  "name": "Necklace",
+  "slide": 18,
   "original": "17 – Necklace – Masai – Tanzania/Kenya",
+  "country": "Tanzania/Kenya",
   "images": [
     "images/s018-01.jpg",
     "images/s018-02.jpg",
     "images/s018-03.jpg",
     "images/s018-04.jpg"
-  ]
+  ],
+  "id": "slide-018",
+  "group": "Masai"
 }
