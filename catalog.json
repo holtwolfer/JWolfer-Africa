@@ -616,20 +616,20 @@
     "group": ""
   },
   {
-    "id": "slide-038",
-    "slide": 38,
-    "number": "37",
-    "name": "Snake Vertebrae",
-    "group": "",
-    "country": "Sierra Leone",
     "notes": [],
+    "number": "037",
+    "name": "Snake Vertebrae",
+    "slide": 38,
     "original": "37 – Snake Vertebrae - - Sierra Leone",
+    "country": "Sierra Leone",
     "images": [
       "images/s038-01.jpg",
       "images/s038-02.jpg",
       "images/s038-03.jpg",
       "images/s038-04.jpg"
-    ]
+    ],
+    "id": "slide-038",
+    "group": ""
   },
   {
     "id": "slide-039",
