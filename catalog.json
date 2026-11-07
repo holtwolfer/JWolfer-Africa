@@ -748,19 +748,21 @@
     "group": ""
   },
   {
-    "id": "slide-045",
-    "slide": 45,
-    "number": "44",
+    "notes": [
+      "This was not labeled, but was with the other 'juju' and seems to fit. Not certain. "
+    ],
+    "number": "044",
     "name": "Juju Beads",
-    "group": "",
-    "country": "Sierra Leone",
-    "notes": [],
+    "slide": 45,
     "original": "44 – Juju Beads - - Sierra Leone",
+    "country": "Sierra Leone",
     "images": [
       "images/s045-01.jpg",
       "images/s045-02.jpg",
       "images/s045-03.jpg"
-    ]
+    ],
+    "id": "slide-045",
+    "group": ""
   },
   {
     "notes": [],
