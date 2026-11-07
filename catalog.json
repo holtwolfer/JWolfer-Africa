@@ -548,15 +548,15 @@
     "group": ""
   },
   {
-    "id": "slide-033",
-    "slide": 33,
-    "number": "32",
-    "name": "Chief’s Gown",
-    "group": "Mende",
-    "country": "Sierra Leone",
     "notes": [],
+    "number": "032",
+    "name": "Chief’s Gown",
+    "slide": 33,
     "original": "32 – Chief’s Gown – Mende – Sierra Leone",
-    "images": []
+    "country": "Sierra Leone",
+    "images": [],
+    "id": "slide-033",
+    "group": "Mende"
   },
   {
     "id": "slide-034",
