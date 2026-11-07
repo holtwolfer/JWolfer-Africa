@@ -1,17 +1,17 @@
 {
-  "id": "slide-063",
-  "slide": 63,
-  "number": null,
-  "name": "Masai carving ?",
-  "group": "",
-  "country": "",
   "notes": [],
-  "original": "Masai carving ?",
+  "number": "062",
+  "name": "Warrior Carving",
+  "slide": 63,
+  "original": "Warrior Carving",
+  "country": "Unknown",
   "images": [
-    "images/s063-01.jpg",
-    "images/s063-02.jpg",
-    "images/s063-03.jpg",
     "images/s063-04.jpg",
+    "images/s063-03.jpg",
+    "images/s063-02.jpg",
+    "images/s063-01.jpg",
     "images/s063-05.jpg"
-  ]
+  ],
+  "id": "slide-063",
+  "group": "Unknown"
 }
