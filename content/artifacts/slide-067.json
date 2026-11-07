@@ -1,17 +1,17 @@
 {
-  "id": "slide-067",
-  "slide": 67,
-  "number": null,
-  "name": "Unidentified artifact (slide 67)",
-  "group": "",
-  "country": "",
   "notes": [],
+  "number": "066",
+  "name": "Unknown Carving",
+  "slide": 67,
   "original": "",
+  "country": "Unknown - likely West Africa, Ivory Coast",
   "images": [
-    "images/s067-01.jpg",
     "images/s067-02.jpg",
     "images/s067-03.jpg",
     "images/s067-04.jpg",
-    "images/s067-05.jpg"
-  ]
+    "images/s067-05.jpg",
+    "images/s067-01.jpg"
+  ],
+  "id": "slide-067",
+  "group": "Unknown"
 }
