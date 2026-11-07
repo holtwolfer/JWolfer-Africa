@@ -667,14 +667,14 @@
     "group": ""
   },
   {
-    "id": "slide-041",
-    "slide": 41,
-    "number": "40",
+    "notes": [
+      "Numbering was missing. Not certain if all or part of this is correctly labeled. From searches the stone or bone is likely the 'juju'"
+    ],
+    "number": "040",
     "name": "Juju for preventing snake bite",
-    "group": "Kissi",
-    "country": "Sierra Leone",
-    "notes": [],
+    "slide": 41,
     "original": "40 – Juju for preventing snake bite – Kissi – Sierra Leone",
+    "country": "Sierra Leone",
     "images": [
       "images/s041-01.jpg",
       "images/s041-02.jpg",
@@ -683,7 +683,9 @@
       "images/s041-05.jpg",
       "images/s041-06.jpg",
       "images/s041-07.jpg"
-    ]
+    ],
+    "id": "slide-041",
+    "group": "Kissi"
   },
   {
     "id": "slide-042",
