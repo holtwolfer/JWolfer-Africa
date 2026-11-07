@@ -1,16 +1,16 @@
 {
-  "id": "slide-074",
-  "slide": 74,
-  "number": null,
-  "name": "Unidentified artifact (slide 74)",
-  "group": "",
-  "country": "",
   "notes": [],
+  "number": "073",
+  "name": "Unidentified artifact (slide 74)",
+  "slide": 74,
   "original": "",
+  "country": "Unknown ",
   "images": [
-    "images/s074-01.jpg",
     "images/s074-02.jpg",
     "images/s074-03.jpg",
-    "images/s074-04.jpg"
-  ]
+    "images/s074-04.jpg",
+    "images/s074-01.jpg"
+  ],
+  "id": "slide-074",
+  "group": "Unknown"
 }
