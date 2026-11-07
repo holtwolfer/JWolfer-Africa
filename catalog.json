@@ -502,20 +502,20 @@
     "original": ""
   },
   {
-    "id": "slide-030",
-    "slide": 30,
-    "number": "29",
-    "name": "Coptic Hand Cross",
-    "group": "",
-    "country": "Ethiopia",
     "notes": [],
+    "number": "029",
+    "name": "Coptic Hand Cross",
+    "slide": 30,
     "original": "29 – Coptic Hand Cross - - Ethiopia",
+    "country": "Ethiopia",
     "images": [
       "images/s030-01.jpg",
       "images/s030-02.jpg",
       "images/s030-03.jpg",
       "images/s030-04.jpg"
-    ]
+    ],
+    "id": "slide-030",
+    "group": ""
   },
   {
     "id": "slide-031",
