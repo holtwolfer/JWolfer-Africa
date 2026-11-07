@@ -1,15 +1,15 @@
 {
-  "id": "slide-029",
-  "slide": 29,
-  "number": "28",
-  "name": "Lala (musical instrument)",
-  "group": "Foulah",
-  "country": "Sierra Leone",
   "notes": [],
+  "number": "028",
+  "name": "Lala (musical instrument)",
+  "slide": 29,
   "original": "28 – Lala (musical instrument) – Foulah – Sierra Leone",
+  "country": "Sierra Leone",
   "images": [
     "images/s029-01.jpg",
     "images/s029-02.jpg",
     "images/s029-03.jpg"
-  ]
+  ],
+  "id": "slide-029",
+  "group": "Foulah"
 }
