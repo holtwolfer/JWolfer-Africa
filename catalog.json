@@ -391,19 +391,17 @@
     "group": ""
   },
   {
-    "id": "slide-024",
-    "slide": 24,
-    "number": "23",
-    "name": "Whistle",
-    "group": "Ashanti",
-    "country": "Ghana",
     "notes": [
       "‘flute’ from mali might be this?"
     ],
+    "number": "023",
+    "name": "Whistle",
+    "slide": 24,
     "original": "23 – Whistle – Ashanti - Ghana",
-    "images": [
-      "images/s024-01.jpg"
-    ]
+    "country": "Ghana",
+    "images": [],
+    "id": "slide-024",
+    "group": "Ashanti"
   },
   {
     "id": "slide-025",
