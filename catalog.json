@@ -974,14 +974,12 @@
     "group": ""
   },
   {
-    "id": "slide-060",
-    "slide": 60,
-    "number": "59",
-    "name": "Antelope Skin Drum",
-    "group": "",
-    "country": "East Africa",
     "notes": [],
+    "number": "059",
+    "name": "Antelope Skin Drum",
+    "slide": 60,
     "original": "59 – Antelope Skin Drum - -East Africa",
+    "country": "East Africa",
     "images": [
       "images/s060-01.jpg",
       "images/s060-02.jpg",
@@ -989,7 +987,9 @@
       "images/s060-04.jpg",
       "images/s060-05.jpg",
       "images/s060-06.jpg"
-    ]
+    ],
+    "id": "slide-060",
+    "group": ""
   },
   {
     "id": "slide-061",
