@@ -4,7 +4,7 @@
   "name": "Unknown carving",
   "slide": 66,
   "original": "Unknown carving",
-  "country": "",
+  "country": "Unknown",
   "images": [
     "images/s066-02.jpg",
     "images/s066-04.jpg",
@@ -12,5 +12,5 @@
     "images/s066-03.jpg"
   ],
   "id": "slide-066",
-  "group": ""
+  "group": "Unknown"
 }
