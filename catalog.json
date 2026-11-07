@@ -300,14 +300,14 @@
     "group": "Masai"
   },
   {
-    "id": "slide-019",
-    "slide": 19,
-    "number": "18",
+    "notes": [
+      "The one on the right is most likely Mende, not sure about the one on the left"
+    ],
+    "number": "018",
     "name": "Shegbureh (Women’s Rattle)",
-    "group": "Mende",
-    "country": "Sierra Leone",
-    "notes": [],
+    "slide": 19,
     "original": "18 – Shegbureh (Women’s Rattle) – Mende – Sierra Leone",
+    "country": "Sierra Leone",
     "images": [
       "images/s019-01.jpg",
       "images/s019-02.jpg",
@@ -316,7 +316,9 @@
       "images/s019-05.jpg",
       "images/s019-06.jpg",
       "images/s019-07.jpg"
-    ]
+    ],
+    "id": "slide-019",
+    "group": "Mende"
   },
   {
     "id": "slide-020",
