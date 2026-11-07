@@ -886,21 +886,23 @@
     "group": "Mende"
   },
   {
-    "id": "slide-054",
-    "slide": 54,
-    "number": "53",
+    "notes": [
+      "This was not labeled and there is another possibility..."
+    ],
+    "number": "053",
     "name": "Wallet",
-    "group": "",
-    "country": "Mali",
-    "notes": [],
+    "slide": 54,
     "original": "53 – Wallet - - Mali",
+    "country": "Mali",
     "images": [
       "images/s054-01.jpg",
       "images/s054-02.jpg",
       "images/s054-03.jpg",
       "images/s054-04.jpg",
       "images/s054-05.jpg"
-    ]
+    ],
+    "id": "slide-054",
+    "group": ""
   },
   {
     "id": "slide-055",
