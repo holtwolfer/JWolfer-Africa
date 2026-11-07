@@ -1592,5 +1592,21 @@
       "images/s101-01.jpg",
       "images/s101-02.jpg"
     ]
+  },
+  {
+    "images": [
+      "images/s042-02.jpg",
+      "images/s042-01.jpg",
+      "images/s042-03.jpg",
+      "images/s042-04.jpg"
+    ],
+    "name": "Unknown Bag",
+    "group": "Unknown",
+    "country": "Unknown",
+    "id": "slide-041b",
+    "notes": [],
+    "number": null,
+    "original": "",
+    "slide": null
   }
 ]
