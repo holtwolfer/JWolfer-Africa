@@ -1,12 +1,10 @@
 {
-  "id": "slide-068",
-  "slide": 68,
-  "number": null,
-  "name": "Unknown carving",
-  "group": "",
-  "country": "",
   "notes": [],
+  "number": "067",
+  "name": "Unknown Carving",
+  "slide": 68,
   "original": "Unknown carving",
+  "country": "Unknown - likely East Africa, Tanzania ",
   "images": [
     "images/s068-01.jpg",
     "images/s068-02.jpg",
@@ -14,5 +12,7 @@
     "images/s068-04.jpg",
     "images/s068-05.jpg",
     "images/s068-06.jpg"
-  ]
+  ],
+  "id": "slide-068",
+  "group": "Unknown"
 }
