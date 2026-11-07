@@ -404,20 +404,22 @@
     "group": "Ashanti"
   },
   {
-    "id": "slide-025",
-    "slide": 25,
-    "number": "24",
+    "notes": [
+      "We don't know which one was the numbered item"
+    ],
+    "number": "024",
     "name": "Raffia Mat",
-    "group": "Temne",
-    "country": "Sierra Leone",
-    "notes": [],
+    "slide": 25,
     "original": "24 – Raffia Mat – Temne – Sierra Leone",
+    "country": "Sierra Leone",
     "images": [
       "images/s025-01.jpg",
       "images/s025-02.jpg",
       "images/s025-03.jpg",
       "images/s025-04.jpg"
-    ]
+    ],
+    "id": "slide-025",
+    "group": "Temne"
   },
   {
     "id": "slide-026",
