@@ -1140,18 +1140,20 @@
     "group": "Unknown "
   },
   {
-    "id": "slide-070",
+    "notes": [
+      "Possibly a 'passport mask' from West Africa, Ivory Coast, Liberia "
+    ],
+    "number": "069",
+    "name": "Bone Carving ",
     "slide": 70,
-    "number": null,
-    "name": "Unidentified artifact (slide 70)",
-    "group": "",
-    "country": "",
-    "notes": [],
     "original": "",
+    "country": "Unknown - Likely West Africa, Ivory Coast or Liberia",
     "images": [
       "images/s070-01.jpg",
       "images/s070-02.jpg"
-    ]
+    ],
+    "id": "slide-070",
+    "group": "Unknown"
   },
   {
     "id": "slide-071",
