@@ -268,20 +268,20 @@
     "group": "Masai"
   },
   {
-    "id": "slide-017",
-    "slide": 17,
-    "number": "16",
-    "name": "Antelope Horn",
-    "group": "",
-    "country": "East Africa",
     "notes": [],
+    "number": "016",
+    "name": "Antelope Horn",
+    "slide": 17,
     "original": "16 – Antelope Horn - - East Africa",
+    "country": "East Africa",
     "images": [
       "images/s017-01.jpg",
       "images/s017-02.jpg",
       "images/s017-03.jpg",
       "images/s017-04.jpg"
-    ]
+    ],
+    "id": "slide-017",
+    "group": ""
   },
   {
     "id": "slide-018",
