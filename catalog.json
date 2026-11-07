@@ -1171,19 +1171,19 @@
     "group": "Unknown"
   },
   {
-    "id": "slide-072",
-    "slide": 72,
-    "number": null,
-    "name": "Letter opener, unknown origin",
-    "group": "",
-    "country": "",
     "notes": [],
+    "number": "071",
+    "name": "Letter opener, unknown origin",
+    "slide": 72,
     "original": "Letter opener, unknown origin",
+    "country": "Unknown - likely East Africa, Tanzania",
     "images": [
       "images/s072-01.jpg",
       "images/s072-02.jpg",
       "images/s072-03.jpg"
-    ]
+    ],
+    "id": "slide-072",
+    "group": "Unknown"
   },
   {
     "id": "slide-073",
