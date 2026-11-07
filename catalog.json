@@ -714,6 +714,23 @@
     "group": "Sherri"
   },
   {
+    "images": [
+      "images/s043-02.jpg",
+      "images/s043-01.jpg",
+      "images/s043-03.jpg",
+      "images/s043-04.jpg",
+      "images/s043-05.jpg"
+    ],
+    "country": "Unknown",
+    "group": "Unknown",
+    "name": "Unknown Bag",
+    "id": "slide-102",
+    "slide": 43,
+    "number": "102",
+    "notes": [],
+    "original": ""
+  },
+  {
     "id": "slide-044",
     "slide": 44,
     "number": "43",
