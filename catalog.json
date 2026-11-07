@@ -1125,19 +1125,19 @@
     "group": "Unknown"
   },
   {
-    "id": "slide-069",
-    "slide": 69,
-    "number": null,
-    "name": "Pipe, unknown origin",
-    "group": "",
-    "country": "",
     "notes": [],
+    "number": "068",
+    "name": "Pipe, unknown origin",
+    "slide": 69,
     "original": "Pipe, unknown origin",
+    "country": "",
     "images": [
       "images/s069-01.jpg",
       "images/s069-02.jpg",
       "images/s069-03.jpg"
-    ]
+    ],
+    "id": "slide-069",
+    "group": "Unknown "
   },
   {
     "id": "slide-070",
