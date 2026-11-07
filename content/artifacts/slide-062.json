@@ -1,15 +1,17 @@
 {
-  "id": "slide-062",
+  "notes": [
+    "This is the start of 'new' catalog numbers - not in the original collection of numbered items."
+  ],
+  "number": "061",
+  "name": "Bag or Purse ",
   "slide": 62,
-  "number": null,
-  "name": "Unidentified artifact (slide 62)",
-  "group": "",
-  "country": "",
-  "notes": [],
   "original": "",
+  "country": "Unknown",
   "images": [
     "images/s062-01.jpg",
     "images/s062-02.jpg",
     "images/s062-03.jpg"
-  ]
+  ],
+  "id": "slide-062",
+  "group": "Unknown"
 }
