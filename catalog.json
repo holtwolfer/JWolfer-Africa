@@ -792,15 +792,15 @@
     "group": "Mende"
   },
   {
-    "id": "slide-048",
-    "slide": 48,
-    "number": "47",
-    "name": "Ebony Carving",
-    "group": "Makonde",
-    "country": "Tanzania",
     "notes": [],
+    "number": "047",
+    "name": "Ebony Carving",
+    "slide": 48,
     "original": "47 – Ebony Carving – Makonde - Tanzania",
-    "images": []
+    "country": "Tanzania",
+    "images": [],
+    "id": "slide-048",
+    "group": "Makonde"
   },
   {
     "id": "slide-049",
