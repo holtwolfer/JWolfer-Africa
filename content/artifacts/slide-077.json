@@ -1,14 +1,14 @@
 {
-  "id": "slide-077",
-  "slide": 77,
-  "number": null,
-  "name": "Maracas",
-  "group": "",
-  "country": "",
   "notes": [],
+  "number": "076",
+  "name": "Maracas",
+  "slide": 77,
   "original": "Maracas",
+  "country": "Unknown - likely West Africa",
   "images": [
     "images/s077-01.jpg",
     "images/s077-02.jpg"
-  ]
+  ],
+  "id": "slide-077",
+  "group": "Unknown"
 }
