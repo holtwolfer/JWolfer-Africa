@@ -1,15 +1,15 @@
 {
-  "id": "slide-059",
-  "slide": 59,
-  "number": "58",
-  "name": "Pottery",
-  "group": "",
-  "country": "Uganda",
   "notes": [],
+  "number": "058",
+  "name": "Pottery",
+  "slide": 59,
   "original": "58 – Pottery - - Uganda",
+  "country": "Uganda",
   "images": [
     "images/s059-01.jpg",
     "images/s059-02.jpg",
     "images/s059-03.jpg"
-  ]
+  ],
+  "id": "slide-059",
+  "group": ""
 }
