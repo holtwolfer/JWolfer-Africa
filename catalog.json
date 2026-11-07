@@ -453,20 +453,20 @@
     "group": "Mende"
   },
   {
-    "id": "slide-028",
-    "slide": 28,
-    "number": "27",
-    "name": "Hair Combs",
-    "group": "Mende",
-    "country": "Sierra Leone",
     "notes": [],
+    "number": "027",
+    "name": "Hair Combs",
+    "slide": 28,
     "original": "27 – Hair Combs – Mende – Sierra Leone",
+    "country": "Sierra Leone",
     "images": [
       "images/s028-01.jpg",
       "images/s028-02.jpg",
       "images/s028-03.jpg",
       "images/s028-04.jpg"
-    ]
+    ],
+    "id": "slide-028",
+    "group": "Mende"
   },
   {
     "id": "slide-029",
