@@ -1,16 +1,16 @@
 {
-  "id": "slide-061",
-  "slide": 61,
-  "number": "60",
-  "name": "Muslim Prayer Drum",
-  "group": "Foulah",
-  "country": "Sierra Leone",
   "notes": [],
+  "number": "060",
+  "name": "Muslim Prayer Drum",
+  "slide": 61,
   "original": "60 – Muslim Prayer Drum – Foulah – Sierra Leone",
+  "country": "Sierra Leone",
   "images": [
     "images/s061-01.jpg",
     "images/s061-02.jpg",
     "images/s061-03.jpg",
     "images/s061-04.jpg"
-  ]
+  ],
+  "id": "slide-061",
+  "group": "Foulah"
 }
