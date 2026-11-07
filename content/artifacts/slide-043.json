@@ -1,17 +1,11 @@
 {
-  "id": "slide-043",
-  "slide": 43,
-  "number": "42",
-  "name": "Raffia Bag",
-  "group": "Sherri",
-  "country": "Sierra Leone---------------not sure about this one",
   "notes": [],
-  "original": "42 – Raffia Bag – Sherri – Sierra Leone---------------not sure about this one----------------",
-  "images": [
-    "images/s043-01.jpg",
-    "images/s043-02.jpg",
-    "images/s043-03.jpg",
-    "images/s043-04.jpg",
-    "images/s043-05.jpg"
-  ]
+  "number": "042",
+  "name": "Raffia Bag",
+  "slide": 43,
+  "original": "42 – Raffia Bag – Sherri – Sierra Leone",
+  "country": "Sierra Leone",
+  "images": [],
+  "id": "slide-043",
+  "group": "Sherri"
 }
