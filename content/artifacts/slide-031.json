@@ -1,14 +1,14 @@
 {
-  "id": "slide-031",
-  "slide": 31,
-  "number": "30",
-  "name": "Gown (‘country cloth’)",
-  "group": "Ashanti",
-  "country": "Ghana",
   "notes": [],
+  "number": "030",
+  "name": "Gown (‘country cloth’)",
+  "slide": 31,
   "original": "30 – Gown (‘country cloth’) – Ashanti - Ghana",
+  "country": "Ghana",
   "images": [
     "images/s031-01.jpg",
     "images/s031-02.jpg"
-  ]
+  ],
+  "id": "slide-031",
+  "group": "Ashanti"
 }
