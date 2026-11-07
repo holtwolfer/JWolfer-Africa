@@ -422,18 +422,18 @@
     "group": "Temne"
   },
   {
-    "id": "slide-026",
-    "slide": 26,
-    "number": "25",
-    "name": "Elephant Hair Bracelet",
-    "group": "",
-    "country": "East Africa",
     "notes": [],
+    "number": "025",
+    "name": "Elephant Hair Bracelet",
+    "slide": 26,
     "original": "25 – Elephant Hair Bracelet - - East Africa",
+    "country": "East Africa",
     "images": [
       "images/s026-01.jpg",
       "images/s026-02.jpg"
-    ]
+    ],
+    "id": "slide-026",
+    "group": ""
   },
   {
     "id": "slide-027",
