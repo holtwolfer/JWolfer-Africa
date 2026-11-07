@@ -436,21 +436,21 @@
     "group": ""
   },
   {
-    "id": "slide-027",
-    "slide": 27,
-    "number": "26",
-    "name": "Soap Stone Fertility Figure",
-    "group": "Mende",
-    "country": "Sierra Leone",
     "notes": [],
+    "number": "026",
+    "name": "Soap Stone Fertility Figure",
+    "slide": 27,
     "original": "26 – Soap Stone Fertility Figure – Mende – Sierra Leone",
+    "country": "Sierra Leone",
     "images": [
       "images/s027-01.jpg",
       "images/s027-02.jpg",
       "images/s027-03.jpg",
       "images/s027-04.jpg",
       "images/s027-05.jpg"
-    ]
+    ],
+    "id": "slide-027",
+    "group": "Mende"
   },
   {
     "id": "slide-028",
