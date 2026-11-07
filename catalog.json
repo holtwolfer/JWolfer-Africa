@@ -649,20 +649,22 @@
     "group": ""
   },
   {
-    "id": "slide-040",
-    "slide": 40,
-    "number": "39",
+    "notes": [
+      "Not certain if this is from Mali. It was missing the numbering."
+    ],
+    "number": "039",
     "name": "Hair Comb",
-    "group": "",
-    "country": "Mali",
-    "notes": [],
+    "slide": 40,
     "original": "39 – Hair Comb - - Mali",
+    "country": "Mali",
     "images": [
       "images/s040-01.jpg",
       "images/s040-02.jpg",
       "images/s040-03.jpg",
       "images/s040-04.jpg"
-    ]
+    ],
+    "id": "slide-040",
+    "group": ""
   },
   {
     "id": "slide-041",
