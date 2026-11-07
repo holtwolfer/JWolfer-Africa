@@ -849,14 +849,14 @@
     "group": ""
   },
   {
-    "id": "slide-052",
-    "slide": 52,
-    "number": "51",
+    "notes": [
+      "This was not labeled. Best guess at this point."
+    ],
+    "number": "051",
     "name": "Purse",
-    "group": "",
-    "country": "Mali ------------not sure about this",
-    "notes": [],
-    "original": "51 – Purse - - Mali ------------not sure about this--------------",
+    "slide": 52,
+    "original": "51 – Purse - - Mali?",
+    "country": "Mali",
     "images": [
       "images/s052-01.jpg",
       "images/s052-02.jpg",
@@ -864,7 +864,9 @@
       "images/s052-04.jpg",
       "images/s052-05.jpg",
       "images/s052-06.jpg"
-    ]
+    ],
+    "id": "slide-052",
+    "group": ""
   },
   {
     "id": "slide-053",
