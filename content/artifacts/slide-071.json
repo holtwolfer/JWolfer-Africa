@@ -1,15 +1,15 @@
 {
-  "id": "slide-071",
-  "slide": 71,
-  "number": null,
-  "name": "Unidentified artifact (slide 71)",
-  "group": "",
-  "country": "",
   "notes": [],
+  "number": "070",
+  "name": "Gourd Ladle ",
+  "slide": 71,
   "original": "",
+  "country": "Unknown - likely West Africa, Sierra Leone ",
   "images": [
     "images/s071-01.jpg",
     "images/s071-02.jpg",
     "images/s071-03.jpg"
-  ]
+  ],
+  "id": "slide-071",
+  "group": "Unknown"
 }
