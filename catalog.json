@@ -484,6 +484,24 @@
     ]
   },
   {
+    "name": "Shekere",
+    "country": "West Africa",
+    "notes": [
+      "Uncertain about name and origin. "
+    ],
+    "number": "018b",
+    "slide": 30,
+    "images": [
+      "images/s019-03.jpg",
+      "images/s019-07.jpg",
+      "images/s019-04.jpg",
+      "images/s019-02.jpg"
+    ],
+    "id": "slide-019b",
+    "group": "",
+    "original": ""
+  },
+  {
     "id": "slide-030",
     "slide": 30,
     "number": "29",
