@@ -1,16 +1,15 @@
 {
-  "id": "slide-042",
-  "slide": 42,
-  "number": "41",
+  "notes": [
+    "Item missing."
+  ],
+  "number": "041",
   "name": "Raffia Basket",
-  "group": "Temne",
-  "country": "Sierra Leone----------------Not sure about this one",
-  "notes": [],
-  "original": "41 – Raffia Basket – Temne – Sierra Leone----------------Not sure about this one---------------",
+  "slide": 42,
+  "original": "41 – Raffia Basket – Temne – Sierra Leone",
+  "country": "Sierra Leone",
   "images": [
-    "images/s042-01.jpg",
-    "images/s042-02.jpg",
-    "images/s042-03.jpg",
-    "images/s042-04.jpg"
-  ]
+    "https://sierraleoneheritage.org/storage/sierra_leone_national_museum/image/slnm.1957.09.38b.jpg"
+  ],
+  "id": "slide-042",
+  "group": "Temne"
 }
