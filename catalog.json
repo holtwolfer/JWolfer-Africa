@@ -814,14 +814,12 @@
     "images": []
   },
   {
-    "id": "slide-050",
-    "slide": 50,
-    "number": "49",
-    "name": "Balangi (marimba)",
-    "group": "",
-    "country": "Mali",
     "notes": [],
+    "number": "049",
+    "name": "Balangi (marimba)",
+    "slide": 50,
     "original": "49 – Balangi (marimba) - - Mali",
+    "country": "Mali",
     "images": [
       "images/s050-01.jpg",
       "images/s050-02.jpg",
@@ -831,7 +829,9 @@
       "images/s050-06.jpg",
       "images/s050-07.jpg",
       "images/s050-08.jpg"
-    ]
+    ],
+    "id": "slide-050",
+    "group": ""
   },
   {
     "id": "slide-051",
