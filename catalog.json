@@ -1392,21 +1392,23 @@
     "group": "Unknown"
   },
   {
-    "id": "slide-087",
+    "notes": [
+      "Likely East African"
+    ],
+    "number": "086",
+    "name": "Carving",
     "slide": 87,
-    "number": null,
-    "name": "Unidentified artifact (slide 87)",
-    "group": "",
-    "country": "",
-    "notes": [],
     "original": "",
+    "country": "Unknown",
     "images": [
       "images/s087-01.jpg",
       "images/s087-02.jpg",
       "images/s087-03.jpg",
       "images/s087-04.jpg",
       "images/s087-05.jpg"
-    ]
+    ],
+    "id": "slide-087",
+    "group": "Unknown"
   },
   {
     "id": "slide-088",
