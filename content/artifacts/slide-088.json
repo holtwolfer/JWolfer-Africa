@@ -1,12 +1,10 @@
 {
-  "id": "slide-088",
-  "slide": 88,
-  "number": null,
-  "name": "Robe, origin unknown",
-  "group": "",
-  "country": "",
   "notes": [],
+  "number": "087",
+  "name": "Robe, origin unknown",
+  "slide": 88,
   "original": "Robe, origin unknown",
+  "country": "Unknown ",
   "images": [
     "images/s088-01.jpg",
     "images/s088-02.jpg",
@@ -18,5 +16,7 @@
     "images/s088-08.jpg",
     "images/s088-09.jpg",
     "images/s088-10.jpg"
-  ]
+  ],
+  "id": "slide-088",
+  "group": "Unknown"
 }
