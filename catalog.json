@@ -1540,18 +1540,18 @@
     "group": "Unknown"
   },
   {
-    "id": "slide-096",
-    "slide": 96,
-    "number": null,
-    "name": "Unidentified artifact (slide 96)",
-    "group": "",
-    "country": "",
     "notes": [],
+    "number": "095",
+    "name": "Maps",
+    "slide": 96,
     "original": "",
+    "country": "",
     "images": [
       "images/s096-01.jpg",
       "images/s096-02.jpg"
-    ]
+    ],
+    "id": "slide-096",
+    "group": ""
   },
   {
     "id": "slide-097",
