@@ -1586,33 +1586,33 @@
     "group": "Unknown"
   },
   {
-    "id": "slide-099",
-    "slide": 99,
-    "number": null,
-    "name": "Wooden Bowl",
-    "group": "",
-    "country": "Unknown",
     "notes": [],
+    "number": "098",
+    "name": "Wooden Bowl",
+    "slide": 99,
     "original": "Wooden Bowl – Unknown",
+    "country": "Unknown",
     "images": [
       "images/s099-01.jpg",
       "images/s099-02.jpg",
       "images/s099-03.jpg",
       "images/s099-04.jpg"
-    ]
+    ],
+    "id": "slide-099",
+    "group": "Unknown "
   },
   {
-    "id": "slide-100",
-    "slide": 100,
-    "number": null,
-    "name": "Bag",
-    "group": "",
-    "country": "Unknown",
     "notes": [],
+    "number": "099",
+    "name": "Bag",
+    "slide": 100,
     "original": "Bag - Unknown",
+    "country": "Unknown",
     "images": [
       "images/s100-01.jpg"
-    ]
+    ],
+    "id": "slide-100",
+    "group": "Unknown"
   },
   {
     "id": "slide-101",
