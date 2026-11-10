@@ -1,13 +1,13 @@
 {
-  "id": "slide-100",
-  "slide": 100,
-  "number": null,
-  "name": "Bag",
-  "group": "",
-  "country": "Unknown",
   "notes": [],
+  "number": "099",
+  "name": "Bag",
+  "slide": 100,
   "original": "Bag - Unknown",
+  "country": "Unknown",
   "images": [
     "images/s100-01.jpg"
-  ]
+  ],
+  "id": "slide-100",
+  "group": "Unknown"
 }
