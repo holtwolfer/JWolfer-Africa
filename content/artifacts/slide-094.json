@@ -1,14 +1,14 @@
 {
-  "id": "slide-094",
-  "slide": 94,
-  "number": null,
-  "name": "Bracelets, Masai??",
-  "group": "",
-  "country": "",
   "notes": [],
+  "number": "093",
+  "name": "Bracelets",
+  "slide": 94,
   "original": "Bracelets, Masai??",
+  "country": "Tanzania ",
   "images": [
     "images/s094-01.jpg",
     "images/s094-02.jpg"
-  ]
+  ],
+  "id": "slide-094",
+  "group": "Maasai"
 }
