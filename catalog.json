@@ -1447,18 +1447,20 @@
     "group": "Unknown"
   },
   {
-    "id": "slide-090",
+    "notes": [
+      "Possibly East African"
+    ],
+    "number": "089",
+    "name": "Walking stick ",
     "slide": 90,
-    "number": null,
-    "name": "Walking stick that might not be from Africa",
-    "group": "",
-    "country": "",
-    "notes": [],
     "original": "Walking stick that might not be from Africa",
+    "country": "Unknown",
     "images": [
       "images/s090-01.jpg",
       "images/s090-02.jpg"
-    ]
+    ],
+    "id": "slide-090",
+    "group": "Unknown"
   },
   {
     "id": "slide-091",
