@@ -1,14 +1,14 @@
 {
-  "id": "slide-089",
-  "slide": 89,
-  "number": null,
-  "name": "Unidentified artifact (slide 89)",
-  "group": "",
-  "country": "",
   "notes": [],
+  "number": "088",
+  "name": "Stool",
+  "slide": 89,
   "original": "",
+  "country": "Unknown",
   "images": [
     "images/s089-01.jpg",
     "images/s089-02.jpg"
-  ]
+  ],
+  "id": "slide-089",
+  "group": "Unknown"
 }
