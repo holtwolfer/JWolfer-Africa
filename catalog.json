@@ -1320,19 +1320,19 @@
     "group": "Unknown"
   },
   {
-    "id": "slide-082",
-    "slide": 82,
-    "number": null,
-    "name": "Unidentified artifact (slide 82)",
-    "group": "",
-    "country": "",
     "notes": [],
+    "number": "081",
+    "name": "Bean Shaker",
+    "slide": 82,
     "original": "",
+    "country": "Unknown",
     "images": [
       "images/s082-01.jpg",
       "images/s082-02.jpg",
       "images/s082-03.jpg"
-    ]
+    ],
+    "id": "slide-082",
+    "group": "Unknown"
   },
   {
     "id": "slide-083",
