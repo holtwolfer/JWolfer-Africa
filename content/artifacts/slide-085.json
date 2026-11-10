@@ -1,13 +1,13 @@
 {
-  "id": "slide-085",
-  "slide": 85,
-  "number": null,
-  "name": "Unidentified artifact (slide 85)",
-  "group": "",
-  "country": "",
   "notes": [],
+  "number": "084",
+  "name": "Screen-print",
+  "slide": 85,
   "original": "",
+  "country": "Kenya",
   "images": [
     "images/s085-01.jpg"
-  ]
+  ],
+  "id": "slide-085",
+  "group": "Unknown"
 }
