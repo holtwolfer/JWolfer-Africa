@@ -1,14 +1,14 @@
 {
-  "id": "slide-080",
-  "slide": 80,
-  "number": null,
-  "name": "Sandals",
-  "group": "",
-  "country": "",
   "notes": [],
+  "number": "079",
+  "name": "Sandals",
+  "slide": 80,
   "original": "Sandals",
+  "country": "Unknown",
   "images": [
     "images/s080-01.jpg",
     "images/s080-02.jpg"
-  ]
+  ],
+  "id": "slide-080",
+  "group": "Unknown"
 }
