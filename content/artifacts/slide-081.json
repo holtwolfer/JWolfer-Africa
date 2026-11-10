@@ -1,14 +1,14 @@
 {
-  "id": "slide-081",
-  "slide": 81,
-  "number": null,
-  "name": "Unidentified artifact (slide 81)",
-  "group": "",
-  "country": "",
   "notes": [],
+  "number": "080",
+  "name": "Folio",
+  "slide": 81,
   "original": "",
+  "country": "Unknown",
   "images": [
     "images/s081-01.jpg",
     "images/s081-02.jpg"
-  ]
+  ],
+  "id": "slide-081",
+  "group": "Unknown"
 }
