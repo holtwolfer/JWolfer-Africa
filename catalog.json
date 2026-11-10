@@ -1351,17 +1351,17 @@
     "group": "Unknown"
   },
   {
-    "id": "slide-084",
-    "slide": 84,
-    "number": null,
-    "name": "Unidentified artifact (slide 84)",
-    "group": "",
-    "country": "",
     "notes": [],
+    "number": "083",
+    "name": "Screen-print",
+    "slide": 84,
     "original": "",
+    "country": "Kenya",
     "images": [
       "images/s084-01.jpg"
-    ]
+    ],
+    "id": "slide-084",
+    "group": "Unknown"
   },
   {
     "id": "slide-085",
