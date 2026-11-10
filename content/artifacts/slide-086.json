@@ -1,15 +1,15 @@
 {
-  "id": "slide-086",
-  "slide": 86,
-  "number": null,
-  "name": "Broom, origin unknown",
-  "group": "",
-  "country": "",
   "notes": [],
+  "number": "085",
+  "name": "Broom, origin unknown",
+  "slide": 86,
   "original": "Broom, origin unknown",
+  "country": "Unknown",
   "images": [
     "images/s086-01.jpg",
     "images/s086-02.jpg",
     "images/s086-03.jpg"
-  ]
+  ],
+  "id": "slide-086",
+  "group": "Unknown"
 }
