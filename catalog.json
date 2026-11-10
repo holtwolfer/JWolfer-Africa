@@ -1335,18 +1335,20 @@
     "group": "Unknown"
   },
   {
-    "id": "slide-083",
+    "notes": [
+      "Possibly from Kenya"
+    ],
+    "number": "082",
+    "name": "Artwork",
     "slide": 83,
-    "number": null,
-    "name": "Unidentified artifact (slide 83)",
-    "group": "",
-    "country": "",
-    "notes": [],
     "original": "",
+    "country": "Unknown",
     "images": [
       "images/s083-01.jpg",
       "images/s083-02.jpg"
-    ]
+    ],
+    "id": "slide-083",
+    "group": "Unknown"
   },
   {
     "id": "slide-084",
